@@ -3,7 +3,7 @@
 ### Windows 11 Shortcuts
 
 Keys | Shortcut
-:---: | :---
+:--- | :---
 Window + `Q` | Search Bar
 Window + `W` | Widget
 Window + `E` | File Explorer
