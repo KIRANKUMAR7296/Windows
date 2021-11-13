@@ -1,4 +1,4 @@
-<h1><img src='Image/Microsoft.png' width=4%>&nbsp;Microsoft Windows</h1>
+<h1><img src='Image/Microsoft.png' width=3%>&nbsp;Microsoft Windows</h1>
 
 ### Windows 11 Shortcuts
 
